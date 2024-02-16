@@ -123,8 +123,12 @@ Interfacing the HC-SR501 Pyroelectric PIR infrared motion sensor with an STM32 p
 ## REFERENCES
 
 [1] https://arduinogetstarted.com/tutorials/arduino-motion-sensor
+
 [2] https://circuitdigest.com/microcontroller-projects/interface-pir-sensor-with-arduino
+
 [3] https://www.instructables.com/How-to-Use-a-PIR-Motion-Sensor-With-Arduino/
+
 [4] https://www.circuits-diy.com/pir-motion-sensor-arduino-tutorial/
+
 [5] https://www.phippselectronics.com/controlling-arduino-by-voice-with-python/
 
