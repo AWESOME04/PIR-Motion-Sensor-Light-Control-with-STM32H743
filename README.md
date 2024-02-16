@@ -64,6 +64,11 @@ void loop() {
 }
 ```
 
+## Serial Monitor Output
+
+![image](https://github.com/AWESOME04/PIR-Motion-Sensor-Light-Control-with-STM32H743/assets/102630199/dda840b1-4c71-4f95-9553-ec1bf664e600)
+
+
 ## Python Script
 
 ```python
@@ -80,6 +85,10 @@ while True:
     engine.say(data)
     engine.runAndWait()
 ```
+## Python Script Output
+
+![image](https://github.com/AWESOME04/PIR-Motion-Sensor-Light-Control-with-STM32H743/assets/102630199/ad7227aa-1f27-4efb-b123-2aac54290ea8)
+
 
 ## Schematics
 
@@ -109,4 +118,17 @@ while True:
 ## Conclusion
 
 Interfacing the HC-SR501 Pyroelectric PIR infrared motion sensor with an STM32 provides a cost-effective solution for motion detection in various projects.
+
+
+## REFERENCES
+
+[1] https://arduinogetstarted.com/tutorials/arduino-motion-sensor
+
+[2] https://circuitdigest.com/microcontroller-projects/interface-pir-sensor-with-arduino
+
+[3] https://www.instructables.com/How-to-Use-a-PIR-Motion-Sensor-With-Arduino/
+
+[4] https://www.circuits-diy.com/pir-motion-sensor-arduino-tutorial/
+
+[5] https://www.phippselectronics.com/controlling-arduino-by-voice-with-python/
 
