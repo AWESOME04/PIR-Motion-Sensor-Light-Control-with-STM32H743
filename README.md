@@ -87,7 +87,8 @@ while True:
 ```
 ## Python Script Output
 
-![image](https://github.com/AWESOME04/PIR-Motion-Sensor-Light-Control-with-STM32H743/assets/102630199/3a2ae1e0-c52c-4da6-8b69-dbdd8b8f6492)
+![image](https://github.com/AWESOME04/PIR-Motion-Sensor-Light-Control-with-STM32H743/assets/102630199/ad7227aa-1f27-4efb-b123-2aac54290ea8)
+
 
 ## Schematics
 
